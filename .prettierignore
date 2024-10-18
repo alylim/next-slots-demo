@@ -1,0 +1,14 @@
+# Ignore artifacts:
+build
+coverage
+
+**/.git
+**/.github
+**/.husky
+**/.next
+**/node_modules
+
+*.yaml
+*.lock
+*.md
+**/*.d.ts
